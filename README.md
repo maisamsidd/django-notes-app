@@ -21,6 +21,8 @@ docker build -t notes-app .
 ```
 docker run -d -p 8000:8000 notes-app:latest
 ```
+4. test the app
+5. test 1
 
 ## Nginx
 
