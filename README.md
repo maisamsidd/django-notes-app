@@ -23,6 +23,7 @@ docker run -d -p 8000:8000 notes-app:latest
 ```
 4. test the app
 5. test 1
+6. test 2
 
 ## Nginx
 
